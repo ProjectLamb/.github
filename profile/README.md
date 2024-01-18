@@ -1,5 +1,11 @@
-## Welcome to Project Lamb!
+# Welcome to Project Lamb!
+### We are Korean indie game development team.
+---
+## Currently Running Projects
+👸[SoPhia](https://github.com/ProjectLamb/ProjectLamb_Sophia)
 
+## Previous Projects
+⚙[GearHeart](https://github.com/ProjectLamb/GearHeart)
 <!--
 
 **Here are some ideas to get you started:**
